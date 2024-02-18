@@ -92,7 +92,7 @@ footer{
     flex-direction: column;
     grid-area: footer;
 }
-footer >div >img{
+footer > div > a > img{
     width: 20px;
 }
 .botones{
